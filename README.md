@@ -9,9 +9,9 @@
   
   🚀 **Passionate Android Developer** | 📱 **Mobile App Enthusiast** | 💡 **Problem Solver**
   
-  [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/deepak-guleria-341392354/))
+  [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))
 
-  [![Email]([https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com](https://mail.google.com/mail/u/0/#inbox))
+  [![Email]([https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)])
  
   
 </div>
