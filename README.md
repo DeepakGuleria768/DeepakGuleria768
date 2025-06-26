@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Deepak Guleria]
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Android+Developer;Mobile+App+Enthusiast;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
