@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Android+Developer;Mobile+App+Enthusiast;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="C:\Users\Deepak\OneDrive\Desktop\myprofile.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 4px solid #3DDC84;"/>
-</div>
 
 <div align="center">
   
