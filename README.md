@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://your-profile-photo-url.com/photo.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 4px solid #3DDC84;"/>
+  <img src="C:\Users\Deepak\OneDrive\Desktop\myprofile.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 4px solid #3DDC84;"/>
 </div>
 
 <div align="center">
