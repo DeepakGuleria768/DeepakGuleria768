@@ -191,7 +191,8 @@ I'm always excited to collaborate on interesting projects or discuss Android dev
 - ☕ I debug better with coffee
 - 🎮 Gaming enthusiast - love mobile games  
 - 📸 Photography hobbyist
-- 🌍 Love traveling and exploring new cultures
+- 🌍 Love traveling and exploring new cultures![myprofile](https://github.com/user-attachments/assets/cffed1d4-04db-4c31-a712-3d3289d9ec34)
+
 - 🎵 Music lover - always coding with headphones on
 - 🌃 Night owl - my best code is written after midnight
 
