@@ -1,548 +1,216 @@
+# 👋 Hi, I'm [Your Name]
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Android Developer README Template</title>
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 100%;
-            margin: 0;
-            padding: 20px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-        }
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Android+Developer;Mobile+App+Enthusiast;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
+</div>
 
-        .readme-container {
-            background: white;
-            border-radius: 15px;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
-            padding: 40px;
-            margin: 0 auto;
-            max-width: 900px;
-            animation: fadeInUp 1s ease-out;
-        }
+<div align="center">
+  <img src="https://your-profile-photo-url.com/photo.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 4px solid #3DDC84;"/>
+</div>
 
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+<div align="center">
+  
+  🚀 **Passionate Android Developer** | 📱 **Mobile App Enthusiast** | 💡 **Problem Solver**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+  
+</div>
 
-        .header {
-            text-align: center;
-            margin-bottom: 40px;
-            padding: 30px 0;
-            background: linear-gradient(135deg, #3DDC84 0%, #1976D2 100%);
-            border-radius: 10px;
-            color: white;
-            position: relative;
-            overflow: hidden;
-        }
+---
 
-        .header::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: repeating-linear-gradient(
-                45deg,
-                transparent,
-                transparent 10px,
-                rgba(255,255,255,0.1) 10px,
-                rgba(255,255,255,0.1) 20px
-            );
-            animation: slide 20s linear infinite;
-        }
+## 👨‍💻 About Me
 
-        @keyframes slide {
-            0% { transform: translateX(-50px) translateY(-50px); }
-            100% { transform: translateX(50px) translateY(50px); }
-        }
+Welcome to my GitHub profile! I'm a passionate Android developer with **[X] years** of experience in creating beautiful, functional, and user-friendly mobile applications. I love turning ideas into reality through clean code and innovative solutions.
 
-        .header-content {
-            position: relative;
-            z-index: 1;
-        }
+<div align="center">
 
-        .profile-img {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-            border: 4px solid white;
-            margin-bottom: 20px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-            animation: pulse 2s infinite;
-        }
+| 🎯 **Experience** | 📱 **Projects** | 📊 **Downloads** | ⭐ **Rating** |
+|:-----------------:|:---------------:|:----------------:|:-------------:|
+| 5+ Years | 50+ Projects | 100K+ Downloads | 4.8★ Average |
 
-        @keyframes pulse {
-            0%, 100% { transform: scale(1); }
-            50% { transform: scale(1.05); }
-        }
+</div>
 
-        .typing-animation {
-            border-right: 3px solid white;
-            white-space: nowrap;
-            overflow: hidden;
-            animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
-        }
+- 🔭 I'm currently working on **[Current Project Name]**
+- 🌱 I'm currently learning **Jetpack Compose & Kotlin Multiplatform**
+- 👯 I'm looking to collaborate on **Open Source Android Projects**
+- 💬 Ask me about **Android Development, Kotlin, Java**
+- 📫 How to reach me: **your.email@example.com**
+- ⚡ Fun fact: **I debug better with coffee ☕**
 
-        @keyframes typing {
-            from { width: 0; }
-            to { width: 100%; }
-        }
+---
 
-        @keyframes blink-caret {
-            from, to { border-color: transparent; }
-            50% { border-color: white; }
-        }
+## 🛠️ Tech Stack & Tools
 
-        .section {
-            margin: 30px 0;
-            padding: 25px;
-            border-radius: 10px;
-            background: #f8f9fa;
-            border-left: 5px solid #3DDC84;
-            transition: all 0.3s ease;
-        }
+### 📱 Mobile Development
+<div align="center">
 
-        .section:hover {
-            transform: translateX(10px);
-            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-        }
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-        .section h2 {
-            color: #1976D2;
-            margin-bottom: 20px;
-            font-size: 24px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
+</div>
 
-        .tech-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-            gap: 15px;
-            margin: 20px 0;
-        }
+### 🏗️ Architecture & Libraries
+<div align="center">
 
-        .tech-item {
-            background: white;
-            padding: 15px;
-            border-radius: 8px;
-            text-align: center;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-            transition: all 0.3s ease;
-            border: 2px solid transparent;
-        }
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Room](https://img.shields.io/badge/Room-Database-green?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-Network-orange?style=for-the-badge)
+![Dagger Hilt](https://img.shields.io/badge/Dagger%20Hilt-DI-red?style=for-the-badge)
 
-        .tech-item:hover {
-            transform: translateY(-5px);
-            border-color: #3DDC84;
-            box-shadow: 0 10px 25px rgba(61, 220, 132, 0.3);
-        }
+</div>
 
-        .project-card {
-            background: white;
-            border-radius: 10px;
-            padding: 20px;
-            margin: 15px 0;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-            border-left: 4px solid #1976D2;
-            transition: all 0.3s ease;
-        }
+### ☁️ Backend & Tools
+<div align="center">
 
-        .project-card:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 15px 30px rgba(0,0,0,0.15);
-        }
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-        .stats-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-            margin: 20px 0;
-        }
+</div>
 
-        .stat-card {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 20px;
-            border-radius: 10px;
-            text-align: center;
-            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-            transition: transform 0.3s ease;
-        }
+---
 
-        .stat-card:hover {
-            transform: scale(1.05);
-        }
+## 🚀 Featured Projects
 
-        .contact-links {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            flex-wrap: wrap;
-            margin: 20px 0;
-        }
+### 📱 [Awesome Weather App](https://github.com/yourusername/weather-app)
+A beautiful weather application with real-time updates, location-based forecasts, and stunning UI animations. Built with Kotlin and Jetpack Compose.
 
-        .contact-link {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            padding: 12px 20px;
-            background: linear-gradient(135deg, #3DDC84 0%, #1976D2 100%);
-            color: white;
-            text-decoration: none;
-            border-radius: 25px;
-            transition: all 0.3s ease;
-            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-        }
+**Tech Stack:** `Kotlin` `Jetpack Compose` `MVVM` `Retrofit` `Room`
 
-        .contact-link:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
-            color: white;
-        }
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/weather-app?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/weather-app?style=social)
 
-        .emoji {
-            font-size: 1.2em;
-            margin-right: 5px;
-        }
+---
 
-        .wave {
-            animation: wave 2s infinite;
-            transform-origin: 70% 70%;
-        }
+### 💰 [Expense Tracker Pro](https://github.com/yourusername/expense-tracker)
+A comprehensive expense tracking app with budget management, category-wise analysis, and data visualization. Featured on Google Play Store.
 
-        @keyframes wave {
-            0%, 100% { transform: rotate(0deg); }
-            25% { transform: rotate(20deg); }
-            75% { transform: rotate(-10deg); }
-        }
+**Tech Stack:** `Java` `Firebase` `Material Design` `MPAndroidChart`
 
-        .code-block {
-            background: #2d3748;
-            color: #e2e8f0;
-            padding: 20px;
-            border-radius: 8px;
-            margin: 15px 0;
-            font-family: 'Courier New', monospace;
-            position: relative;
-            overflow-x: auto;
-        }
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/expense-tracker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/expense-tracker?style=social)
 
-        .code-block::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 3px;
-            background: linear-gradient(90deg, #3DDC84, #1976D2);
-        }
+---
 
-        .footer {
-            text-align: center;
-            margin-top: 40px;
-            padding: 20px;
-            border-top: 2px solid #e9ecef;
-            color: #666;
-        }
+### 🎵 [Music Player Ultimate](https://github.com/yourusername/music-player)
+A feature-rich music player with equalizer, playlist management, and social sharing. Clean architecture with robust offline capabilities.
 
-        @media (max-width: 768px) {
-            .readme-container {
-                padding: 20px;
-                margin: 10px;
-            }
-            
-            .tech-grid {
-                grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-            }
-            
-            .contact-links {
-                flex-direction: column;
-                align-items: center;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="readme-container">
-        <!-- Header Section -->
-        <div class="header">
-            <div class="header-content">
-                <img src="https://via.placeholder.com/120x120/3DDC84/FFFFFF?text=YourPhoto" alt="Profile Picture" class="profile-img">
-                <h1 class="typing-animation">👋 Hi, I'm [Your Name] <span class="wave">👋</span></h1>
-                <p style="font-size: 18px; margin: 10px 0;">🚀 Passionate Android Developer | 📱 Mobile App Enthusiast | 💡 Problem Solver</p>
-            </div>
-        </div>
+**Tech Stack:** `Kotlin` `ExoPlayer` `RxJava` `Dagger` `Custom Views`
 
-        <!-- About Section -->
-        <div class="section">
-            <h2><span class="emoji">👨‍💻</span>About Me</h2>
-            <p>Welcome to my GitHub profile! I'm a passionate Android developer with [X] years of experience in creating beautiful, functional, and user-friendly mobile applications. I love turning ideas into reality through clean code and innovative solutions.</p>
-            
-            <div class="stats-container">
-                <div class="stat-card">
-                    <h3>5+</h3>
-                    <p>Years Experience</p>
-                </div>
-                <div class="stat-card">
-                    <h3>50+</h3>
-                    <p>Projects Completed</p>
-                </div>
-                <div class="stat-card">
-                    <h3>100K+</h3>
-                    <p>App Downloads</p>
-                </div>
-                <div class="stat-card">
-                    <h3>4.8★</h3>
-                    <p>Average Rating</p>
-                </div>
-            </div>
-        </div>
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/music-player?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/music-player?style=social)
 
-        <!-- Tech Stack Section -->
-        <div class="section">
-            <h2><span class="emoji">🛠️</span>Tech Stack & Tools</h2>
-            
-            <h3>📱 Mobile Development</h3>
-            <div class="tech-grid">
-                <div class="tech-item">
-                    <div>🤖</div>
-                    <strong>Android</strong>
-                </div>
-                <div class="tech-item">
-                    <div>☕</div>
-                    <strong>Java</strong>
-                </div>
-                <div class="tech-item">
-                    <div>🎯</div>
-                    <strong>Kotlin</strong>
-                </div>
-                <div class="tech-item">
-                    <div>⚡</div>
-                    <strong>Flutter</strong>
-                </div>
-                <div class="tech-item">
-                    <div>⚛️</div>
-                    <strong>React Native</strong>
-                </div>
-                <div class="tech-item">
-                    <div>🔧</div>
-                    <strong>Android Studio</strong>
-                </div>
-            </div>
+---
 
-            <h3>🏗️ Architecture & Libraries</h3>
-            <div class="tech-grid">
-                <div class="tech-item">
-                    <div>🏛️</div>
-                    <strong>MVVM</strong>
-                </div>
-                <div class="tech-item">
-                    <div>⚡</div>
-                    <strong>Jetpack Compose</strong>
-                </div>
-                <div class="tech-item">
-                    <div>🔄</div>
-                    <strong>RxJava</strong>
-                </div>
-                <div class="tech-item">
-                    <div>🗃️</div>
-                    <strong>Room Database</strong>
-                </div>
-                <div class="tech-item">
-                    <div>🌐</div>
-                    <strong>Retrofit</strong>
-                </div>
-                <div class="tech-item">
-                    <div>🗡️</div>
-                    <strong>Dagger/Hilt</strong>
-                </div>
-            </div>
+## 📊 GitHub Analytics
 
-            <h3>☁️ Backend & Tools</h3>
-            <div class="tech-grid">
-                <div class="tech-item">
-                    <div>🔥</div>
-                    <strong>Firebase</strong>
-                </div>
-                <div class="tech-item">
-                    <div>🐙</div>
-                    <strong>Git</strong>
-                </div>
-                <div class="tech-item">
-                    <div>📊</div>
-                    <strong>Analytics</strong>
-                </div>
-                <div class="tech-item">
-                    <div>🎨</div>
-                    <strong>Figma</strong>
-                </div>
-                <div class="tech-item">
-                    <div>🚀</div>
-                    <strong>CI/CD</strong>
-                </div>
-                <div class="tech-item">
-                    <div>☁️</div>
-                    <strong>AWS</strong>
-                </div>
-            </div>
-        </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-        <!-- Featured Projects -->
-        <div class="section">
-            <h2><span class="emoji">🚀</span>Featured Projects</h2>
-            
-            <div class="project-card">
-                <h3>📱 Awesome Weather App</h3>
-                <p>A beautiful weather application with real-time updates, location-based forecasts, and stunning UI animations. Built with Kotlin and Jetpack Compose.</p>
-                <p><strong>Tech:</strong> Kotlin, Jetpack Compose, MVVM, Retrofit, Room</p>
-                <div style="margin-top: 10px;">
-                    <span style="background: #3DDC84; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 5px;">⭐ 1.2k</span>
-                    <span style="background: #1976D2; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 5px;">🍴 230</span>
-                    <span style="background: #FF5722; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">📱 Android</span>
-                </div>
-            </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
+</div>
 
-            <div class="project-card">
-                <h3>💰 Expense Tracker Pro</h3>
-                <p>A comprehensive expense tracking app with budget management, category-wise analysis, and data visualization. Featured on Google Play Store.</p>
-                <p><strong>Tech:</strong> Java, Firebase, Material Design, Charts</p>
-                <div style="margin-top: 10px;">
-                    <span style="background: #3DDC84; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 5px;">⭐ 890</span>
-                    <span style="background: #1976D2; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 5px;">🍴 156</span>
-                    <span style="background: #FF5722; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">📱 Android</span>
-                </div>
-            </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</div>
 
-            <div class="project-card">
-                <h3>🎵 Music Player Ultimate</h3>
-                <p>A feature-rich music player with equalizer, playlist management, and social sharing. Clean architecture with robust offline capabilities.</p>
-                <p><strong>Tech:</strong> Kotlin, ExoPlayer, RxJava, Dagger, Custom Views</p>
-                <div style="margin-top: 10px;">
-                    <span style="background: #3DDC84; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 5px;">⭐ 2.1k</span>
-                    <span style="background: #1976D2; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px; margin-right: 5px;">🍴 445</span>
-                    <span style="background: #FF5722; color: white; padding: 4px 8px; border-radius: 4px; font-size: 12px;">📱 Android</span>
-                </div>
-            </div>
-        </div>
+---
 
-        <!-- GitHub Stats -->
-        <div class="section">
-            <h2><span class="emoji">📊</span>GitHub Analytics</h2>
-            <div class="code-block">
-                <div style="text-align: center;">
-                    <p>🔥 GitHub Stats will be displayed here</p>
-                    <p>Replace with your actual GitHub stats images:</p>
-                    <p>[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical)]</p>
-                    <p>[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)]</p>
-                </div>
-            </div>
-        </div>
+## 🎯 Current Focus
 
-        <!-- Current Focus -->
-        <div class="section">
-            <h2><span class="emoji">🎯</span>Current Focus</h2>
-            <ul style="list-style: none; padding: 0;">
-                <li style="margin: 10px 0;">🚀 Learning <strong>Jetpack Compose</strong> and modern Android development</li>
-                <li style="margin: 10px 0;">🔍 Exploring <strong>Kotlin Multiplatform</strong> for cross-platform development</li>
-                <li style="margin: 10px 0;">📱 Building <strong>scalable and maintainable</strong> Android applications</li>
-                <li style="margin: 10px 0;">🌟 Contributing to <strong>open-source</strong> Android projects</li>
-                <li style="margin: 10px 0;">📚 Sharing knowledge through <strong>tech blogs</strong> and tutorials</li>
-            </ul>
-        </div>
+- 🚀 Learning **Jetpack Compose** and modern Android development
+- 🔍 Exploring **Kotlin Multiplatform** for cross-platform development  
+- 📱 Building **scalable and maintainable** Android applications
+- 🌟 Contributing to **open-source** Android projects
+- 📚 Sharing knowledge through **tech blogs** and tutorials
 
-        <!-- Connect Section -->
-        <div class="section">
-            <h2><span class="emoji">🤝</span>Let's Connect!</h2>
-            <p>I'm always excited to collaborate on interesting projects or discuss Android development. Feel free to reach out!</p>
-            
-            <div class="contact-links">
-                <a href="mailto:your.email@example.com" class="contact-link">
-                    📧 Email
-                </a>
-                <a href="https://linkedin.com/in/yourprofile" class="contact-link">
-                    💼 LinkedIn
-                </a>
-                <a href="https://twitter.com/yourhandle" class="contact-link">
-                    🐦 Twitter
-                </a>
-                <a href="https://yourwebsite.com" class="contact-link">
-                    🌐 Website
-                </a>
-                <a href="https://medium.com/@yourhandle" class="contact-link">
-                    ✍️ Blog
-                </a>
-            </div>
-        </div>
+---
 
-        <!-- Fun Facts -->
-        <div class="section">
-            <h2><span class="emoji">🎉</span>Fun Facts</h2>
-            <ul style="list-style: none; padding: 0;">
-                <li style="margin: 10px 0;">☕ I debug better with coffee</li>
-                <li style="margin: 10px 0;">🎮 Gaming enthusiast - love mobile games</li>
-                <li style="margin: 10px 0;">📸 Photography hobbyist</li>
-                <li style="margin: 10px 0;">🌍 Love traveling and exploring new cultures</li>
-                <li style="margin: 10px 0;">🎵 Music lover - always coding with headphones on</li>
-            </ul>
-        </div>
+## 🏆 Achievements & Certifications
 
-        <!-- Footer -->
-        <div class="footer">
-            <p>⭐ If you like my work, consider giving a star to my repositories!</p>
-            <p>💬 <em>"Code is like humor. When you have to explain it, it's bad."</em> - Cory House</p>
-            <p>Made with ❤️ by [Your Name] | Last updated: June 2025</p>
-        </div>
-    </div>
+<div align="center">
 
-    <script>
-        // Add some interactive elements
-        document.addEventListener('DOMContentLoaded', function() {
-            // Animate skill cards on scroll
-            const observerOptions = {
-                threshold: 0.1,
-                rootMargin: '0px 0px -50px 0px'
-            };
+![Google Developer](https://img.shields.io/badge/Google%20Developer-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Android Developer](https://img.shields.io/badge/Android%20Developer-Expert-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Certified-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-            const observer = new IntersectionObserver(function(entries) {
-                entries.forEach(entry => {
-                    if (entry.isIntersecting) {
-                        entry.target.style.animation = 'fadeInUp 0.6s ease-out forwards';
-                    }
-                });
-            }, observerOptions);
+</div>
 
-            // Observe all sections
-            document.querySelectorAll('.section').forEach(section => {
-                observer.observe(section);
-            });
+- 🥇 **Google Play Store** - Featured App Developer
+- 🏆 **Android Excellence** Award Winner  
+- 📱 **50+ Apps** Published on Play Store
+- ⭐ **4.8+ Average Rating** across all apps
+- 📊 **1M+ Total Downloads** achieved
 
-            // Add click effects to tech items
-            document.querySelectorAll('.tech-item').forEach(item => {
-                item.addEventListener('click', function() {
-                    this.style.transform = 'scale(0.95)';
-                    setTimeout(() => {
-                        this.style.transform = 'translateY(-5px)';
-                    }, 150);
-                });
-            });
-        });
-    </script>
-</body>
-</html>
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Beautiful UIs with Jetpack Compose](https://yourblog.com/jetpack-compose-ui)
+- [Android Architecture: MVVM vs MVP vs MVI](https://yourblog.com/android-architecture)
+- [Kotlin Coroutines: A Complete Guide](https://yourblog.com/kotlin-coroutines)
+- [Testing Android Apps: Best Practices](https://yourblog.com/android-testing)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on interesting projects or discuss Android development. Feel free to reach out!
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
+
+</div>
+
+---
+
+## 🎉 Fun Facts
+
+- ☕ I debug better with coffee
+- 🎮 Gaming enthusiast - love mobile games  
+- 📸 Photography hobbyist
+- 🌍 Love traveling and exploring new cultures
+- 🎵 Music lover - always coding with headphones on
+- 🌃 Night owl - my best code is written after midnight
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+**Made with ❤️ by [Your Name]**
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=3DDC84&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+</div>
