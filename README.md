@@ -70,7 +70,7 @@
 
 
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakguleria768&show_icons=true&locale=en&layout=compact" 
        alt="Top Langs" 
        width="300" 
@@ -86,4 +86,5 @@
        width="300" 
        height="200" />
 </p>
+
 
