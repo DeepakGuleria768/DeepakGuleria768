@@ -10,15 +10,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Guleria</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-<!-- PROFILE VIEWS & TROPHIES -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=deepakguleria768&label=Profile%20views&color=0e75b6&style=flat" alt="deepakguleria768" />
-</p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=deepakguleria768" alt="Trophies" />
-  </a>
-</p>
 
 <!-- BIO -->
 <p>
