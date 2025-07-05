@@ -47,8 +47,8 @@
 </p>
 
 <!-- STATS with reduced vertical gap and equal height -->
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakguleria768&show_icons=true&locale=en&layout=compact" width="300" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=deepakguleria768&show_icons=true&locale=en" width="300" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakguleria768" width="300" height="200" />
-</p>
+</div>
