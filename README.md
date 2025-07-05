@@ -1,90 +1,61 @@
-<div align="center" style="height: 150px; overflow: hidden;">
+<!-- BANNER with reduced height -->
+<p align="center">
   <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" 
        alt="Banner"
-       style="width: 100%;" />
-</div>
+       width="100%" 
+       height="150" />
+</p>
 
-
-
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Deepak Guleria</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakguleria768&label=Profile%20views&color=0e75b6&style=flat" alt="deepakguleria768" /> </p>
+<!-- PROFILE VIEWS & TROPHIES -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=deepakguleria768&label=Profile%20views&color=0e75b6&style=flat" alt="deepakguleria768" />
+</p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=deepakguleria768" alt="Trophies" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakguleria768" alt="deepakguleria768" /></a> </p>
+<!-- BIO -->
+<p>
+🔭 I’m currently working on <strong>VoIP call</strong><br>
+🌱 Currently learning <strong>React Native, React, JavaScript, Android Architecture</strong><br>
+👯 Looking to collaborate on <strong>Jetpack Compose based projects</strong><br>
+💬 Ask me about <strong>Jetpack Compose, Kotlin</strong><br>
+📫 Reach me at: <strong>dguleria07@gmail.com</strong><br>
+📄 [Know about my experiences](https://drive.google.com/file/d/198xJnmvw2uQpF2cAmF8c_Y3SwQlNOI-q/view?usp=drive_link)<br>
+⚡ Fun fact: <em>I learned more from fixing crashes than writing features — Logcat is now my best friend. 🛠️📉</em>
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **VoIP call**
-
-- 🌱 I’m currently learning **React native , React , javascript , Android Architecture**
-
-- 👯 I’m looking to collaborate on **Jetpack compose base projects**
-
-- 💬 Ask me about **jetpack compose , Kotlin**
-
-- 📫 How to reach me **dguleria07@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/198xJnmvw2uQpF2cAmF8c_Y3SwQlNOI-q/view?usp=drive_link](https://drive.google.com/file/d/198xJnmvw2uQpF2cAmF8c_Y3SwQlNOI-q/view?usp=drive_link)
-
-- ⚡ Fun fact **I learned more from fixing crashes than writing features — Logcat is now my best friend. 🛠️📉**
-
+<!-- CONNECT -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/deepak-guleria-341392354/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak guleria" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <a href="https://www.linkedin.com/in/deepak-guleria-341392354/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
-  <img src="https://blog.stylingandroid.com/wp-content/uploads/2021/05/jetpack-compose-icon_RGB.png" alt="Jetpack Compose" width="40" height="40"/>
-</a>
-
 </p>
 
-
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakguleria768&show_icons=true&locale=en&layout=compact" 
-       alt="Top Langs" 
-       width="300" 
-       height="200" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakguleria768&show_icons=true&locale=en" 
-       alt="GitHub Stats" 
-       width="300" 
-       height="200" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakguleria768" 
-       alt="GitHub Streak" 
-       width="300" 
-       height="200" />
+<!-- TOOLS -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> 
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+  <a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://blog.stylingandroid.com/wp-content/uploads/2021/05/jetpack-compose-icon_RGB.png" alt="Jetpack Compose" width="40" height="40"/></a>
 </p>
 
-
+<!-- STATS with reduced vertical gap and equal height -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakguleria768&show_icons=true&locale=en&layout=compact" width="300" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakguleria768&show_icons=true&locale=en" width="300" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakguleria768" width="300" height="200" />
+</p>
