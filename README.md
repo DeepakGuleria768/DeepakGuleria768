@@ -9,9 +9,8 @@
 <h3 align="center">A passionate Android developer from India</h3>
 
 <!-- CODING GIF centered for mobile friendliness -->
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="300" />
-</div>
+<img align = "right" alt = "Codding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <!-- BIO -->
 <p>
