@@ -1,9 +1,9 @@
-<p align="center">
+<div align="center" style="height: 150px; overflow: hidden;">
   <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" 
        alt="Banner"
-       width="100%" 
-       height="150px" />
-</p>
+       style="width: 100%;" />
+</div>
+
 
 
 <h1 align="center">Hi 👋, I'm Deepak Guleria</h1>
