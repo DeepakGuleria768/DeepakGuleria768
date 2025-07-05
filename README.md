@@ -70,21 +70,20 @@
 
 
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakguleria768&show_icons=true&locale=en&layout=compact" 
        alt="Top Langs" 
-       width="350" 
-       height="180" />
+       width="300" 
+       height="200" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=deepakguleria768&show_icons=true&locale=en" 
        alt="GitHub Stats" 
-       width="350" 
-       height="180" />
+       width="300" 
+       height="200" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakguleria768" 
        alt="GitHub Streak" 
-       width="350" 
-       height="180" />
+       width="300" 
+       height="200" />
+</p>
 
-</div>
