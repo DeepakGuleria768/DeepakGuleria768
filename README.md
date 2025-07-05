@@ -1,27 +1,27 @@
-<!-- BANNER with reduced height -->
-<p align="center">
+<!-- BANNER with controlled height -->
+<div align="center" style="height:120px; overflow:hidden;">
   <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" 
-       alt="Banner"
-       width="100%" 
-       height="150" />
-</p>
+       alt="Banner" style="width: 100%;" />
+</div>
 
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Deepak Guleria</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-<img align = "right" alt = "Codding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<!-- CODING GIF centered for mobile friendliness -->
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="300" />
+</div>
 
 <!-- BIO -->
 <p>
-🔭 I’m currently working on <strong>VoIP call</strong><br>
-🌱 Currently learning <strong>React Native, React, JavaScript, Android Architecture</strong><br>
-👯 Looking to collaborate on <strong>Jetpack Compose based projects</strong><br>
-💬 Ask me about <strong>Jetpack Compose, Kotlin</strong><br>
- 📫 Reach me at: <a href="mailto:dguleria07@gmail.com"><strong>dguleria07@gmail.com</strong></a><br>
-📄 Know about my experiences: <a href="https://drive.google.com/..." target="_blank">Resume</a><br>
-⚡ Fun fact: <em>I learned more from fixing crashes than writing features — Logcat is now my best friend. 🛠️📉</em>
+  🔭 I’m currently working on <strong>VoIP call features</strong><br>
+  🌱 Currently learning <strong>Android Architecture</strong><br>
+  👯 Looking to collaborate on <strong>Jetpack Compose based projects</strong><br>
+  💬 Ask me about <strong>Jetpack Compose, Kotlin</strong><br>
+  📫 Reach me at: <a href="mailto:dguleria07@gmail.com"><strong>dguleria07@gmail.com</strong></a><br>
+  📄 Know about my experiences: <a href="https://drive.google.com/file/d/198xJnmvw2uQpF2cAmF8c_Y3SwQlNOI-q/view?usp=drive_link" target="_blank"><strong>Click here</strong></a><br>
+  ⚡ Fun fact: <em>I learned more from fixing crashes than writing features — Logcat is now my best friend. 🛠️📉</em>
 </p>
 
 <!-- CONNECT -->
@@ -46,7 +46,7 @@
   <a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://blog.stylingandroid.com/wp-content/uploads/2021/05/jetpack-compose-icon_RGB.png" alt="Jetpack Compose" width="40" height="40"/></a>
 </p>
 
-<!-- STATS with reduced vertical gap and equal height -->
+<!-- STATS - responsive and aligned -->
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakguleria768&show_icons=true&locale=en&layout=compact" width="300" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=deepakguleria768&show_icons=true&locale=en" width="300" height="200" />
