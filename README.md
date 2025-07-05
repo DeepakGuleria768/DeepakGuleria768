@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png" alt="Deepak Guleria Banner" width="100%" />
-</p>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 
 <h1 align="center">Hi 👋, I'm Deepak Guleria</h1>
