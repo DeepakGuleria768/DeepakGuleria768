@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-hosting-link.com/your-banner.gif](https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE2ODY0NzAsIm5iZiI6MTc1MTY4NjE3MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA1VDAzMjkzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxNTNlOWQzZTIyMjhlNTNjMDBmNmJlYTU0MjMxNDg1NWE5NGY5OTYxNzA3MjVkZmY5MzA5NDBjMGJlYjc1YWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uUOi6E4MpcN34mWfbx04ZpYlHa7w9gjhiYbPz72B_0I)" alt="Deepak Guleria Banner" width="100%" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png" alt="Deepak Guleria Banner" width="100%" />
 </p>
 
 
