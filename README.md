@@ -20,7 +20,7 @@
 👯 Looking to collaborate on <strong>Jetpack Compose based projects</strong><br>
 💬 Ask me about <strong>Jetpack Compose, Kotlin</strong><br>
  📫 Reach me at: <a href="mailto:dguleria07@gmail.com"><strong>dguleria07@gmail.com</strong></a><br>
-📄 Know about my experiences: <a href="https://drive.google.com/..." target="_blank">Click here</a>
+📄 Know about my experiences: <a href="https://drive.google.com/..." target="_blank">Click here</a><br>
 ⚡ Fun fact: <em>I learned more from fixing crashes than writing features — Logcat is now my best friend. 🛠️📉</em>
 </p>
 
