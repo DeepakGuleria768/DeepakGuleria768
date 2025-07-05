@@ -63,8 +63,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
-    <img src="[https://developer.android.com/images/jetpack/compose-hero.svg](https://www.bing.com/images/search?view=detailV2&ccid=RJWOmWLA&id=15871FA3132C0B1CE7F678DBC4C0BBFC25E76AF3&thid=OIP.RJWOmWLAcIJn5A5v3Tki0wHaIA&mediaurl=https%3a%2f%2fblog.stylingandroid.com%2fwp-content%2fuploads%2f2021%2f05%2fjetpack-compose-icon_RGB.png&exph=1353&expw=1251&q=Jetpack+Compose+Logo+in+PNG&simid=607995812098948955&FORM=IRPRST&ck=888F8C81936DF734A8118FD118B3CD6B&selectedIndex=0&itb=1)" alt="jetpack compose" width="40" height="40"/>
-  </a>
+  <img src="https://blog.stylingandroid.com/wp-content/uploads/2021/05/jetpack-compose-icon_RGB.png" alt="Jetpack Compose" width="40" height="40"/>
+</a>
+
 </p>
 
 
