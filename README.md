@@ -14,7 +14,7 @@
 
 <!-- BIO -->
 <p>
-  🔭 I’m currently working on <strong>VoIP call features</strong><br>
+  🔭 I’m currently working on <strong>OCR(Optical Chracter Reader) implementation in Android</strong><br>
   🌱 Currently learning <strong>Android Architecture</strong><br>
   👯 Looking to collaborate on <strong>Jetpack Compose based projects</strong><br>
   💬 Ask me about <strong>Jetpack Compose, Kotlin</strong><br>
