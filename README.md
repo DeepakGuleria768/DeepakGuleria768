@@ -14,8 +14,8 @@
 
 <!-- BIO -->
 <p>
-  🔭 I’m currently working on <strong>OCR(Optical Chracter Reader) implementation in Android</strong><br>
-  🌱 Currently learning <strong>Android Architecture</strong><br>
+  🔭 I’m currently working on <strong> VOIP(Voice Over Internet Protocole) implementation in Android</strong><br>
+  🌱 Currently learning <strong>PJSIP library</strong><br>
   👯 Looking to collaborate on <strong>Jetpack Compose based projects</strong><br>
   💬 Ask me about <strong>Jetpack Compose, Kotlin</strong><br>
   📫 Reach me at: <a href="mailto:dguleria07@gmail.com"><strong>dguleria07@gmail.com</strong></a><br>
